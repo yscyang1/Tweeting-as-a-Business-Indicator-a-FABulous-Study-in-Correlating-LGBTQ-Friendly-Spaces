@@ -2,4 +2,5 @@ Can we use tweets to identify if a city is LGBTQ+ friendly?  If we can, is there
 
 Status: work in progress
 
-### Part 1 - Intro
+#### Part 1 - Intro
+An outline of why this is important, what I'm doing, and potential problems/biases.  
