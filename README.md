@@ -1,0 +1,1 @@
+# Tweeting-as-a-Business-Indicator-a-FABulous-Study-in-Correlating-LGBTQ-Friendly-Spaces
